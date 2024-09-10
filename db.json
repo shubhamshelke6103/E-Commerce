@@ -1,0 +1,199 @@
+{
+  "seller": [
+    {
+      "id": "3926",
+      "name": "Shubham",
+      "email": "shubham@seller.com",
+      "password": "abc@1232"
+    },
+    {
+      "id": "ffe5",
+      "name": "mohit",
+      "email": "mohit@seller.com",
+      "password": "xyz@1232"
+    },
+    {
+      "id": "0788",
+      "name": "Shelke",
+      "password": "Shelke@123",
+      "email": "Shelke@seller.com"
+    },
+    {
+      "id": "e4c4",
+      "name": "s",
+      "password": "s",
+      "email": "s"
+    },
+    {
+      "id": "5970",
+      "name": "shubham",
+      "password": "shubham@123",
+      "email": "shubham@seller"
+    },
+    {
+      "id": "d704",
+      "name": "ShubhamShelke",
+      "password": "Shubham@123",
+      "email": "Shubham@seller.com"
+    },
+    {
+      "id": "b91b",
+      "name": "mohit",
+      "email": "mohit@seller.com",
+      "password": "xyz@1232"
+    },
+    {
+      "id": "6c94",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "4387",
+      "name": "Mohit Kulkarni",
+      "password": "mohit@123",
+      "email": "mohit@gmail.com"
+    },
+    {
+      "id": "6336",
+      "name": "Mohit Kulkarni",
+      "password": "123xyz",
+      "email": "mohit@gmail.com"
+    },
+    {
+      "id": "f65d",
+      "name": "Shubham",
+      "password": "Shubham123",
+      "email": "Shubham@seller1"
+    }
+  ],
+  "products": [
+    {
+      "name": "Laptop ideapad slim3",
+      "price": "100000",
+      "color": "gray",
+      "category": "Lenovo Laptop",
+      "description": "best laptop fpr student",
+      "image": "https://news.lenovo.com/wp-content/uploads/2022/12/16_Ideapad_Pro_5i_Hero_Family-e1671470792489.jpg",
+      "id": "1f3f"
+    },
+    {
+      "id": "a553",
+      "name": "Moto g54 5g",
+      "price": "15000",
+      "color": "Blue",
+      "category": "mobile",
+      "description": "With 8 GB RAM and 128 GB storage, you can seamlessly perform a multitude of tasks at ease and stack up a heap of content with the huge storage space. ",
+      "image": "https://images.jdmagicbox.com/quickquotes/images_main/g54-5g-ram-12-gb-256-gb-pearl-blue-272635426-tjtfy4jo.png"
+    },
+    {
+      "name": "Vivo t3 5G",
+      "price": "19999",
+      "color": "Red",
+      "category": "mobile",
+      "description": "Powered by the MediaTek Dimensity 7200 chip, it's a fast smartphone, scoring 734+ on AnTuTu. With the segment's first Sony IMX882 OIS sensor, clear shots are guaranteed, even in low light.",
+      "image": "https://suprememobiles.in/cdn/shop/files/VivoT35G-CosmicBlue.png?v=1712300610",
+      "id": "88a9"
+    },
+    {
+      "id": "0ae1",
+      "name": "TATA Coffee gold",
+      "price": "391.00",
+      "color": "Brown",
+      "category": "Coffee",
+      "description": "Tata Coffee Gold Instant Coffee  ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee/l/8/f/-original-imah2tzqyhwwyjh7.jpeg?q=70"
+    },
+    {
+      "id": "455a",
+      "name": "Kissan JAM",
+      "price": "281.00",
+      "color": "Red",
+      "category": "JAM",
+      "description": "Kissan 100% Real Mixed Fruit Jam 1 kg",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kdyus280/jam-spread/p/3/v/1-mixed-fruit-jam-plastic-bottle-mixed-fruit-jam-kissan-original-imafurfxeanqpznx.jpeg?q=70"
+    },
+    {
+      "id": "c9c5",
+      "name": "Men Shirt",
+      "price": "344",
+      "color": "Blue",
+      "category": "Shirt",
+      "description": "Men Solid Cotton Blend Straight Kurt",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/l/2/i/m-kurto-dimmy105-dimmy-original-imah34uyg4zqtrwu.jpeg?q=70"
+    },
+    {
+      "id": "b21c",
+      "name": "Watch",
+      "price": "1600",
+      "color": "Black",
+      "category": "Mens Watch",
+      "description": "Fire-Boltt Hulk 45.2mm (1.78) Amoled Bluetooth Calling with 120 sports modes Smartwatch  (Black Strap, 1.78)",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/smartwatch/y/o/m/-original-imagxp8vgh8xvg2w.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "e913",
+      "name": "Water Bottel",
+      "price": "399.00",
+      "color": "balck",
+      "category": "Bottel",
+      "description": "aaryashoppy 500 ML Thermos Insulated Hot Cold Flask LED Temperature Display Vacuum Bottle 500 ml Flask",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/bottle/9/s/e/500-500-ml-thermos-insulated-hot-cold-flask-led-temperature-original-imah3t9yfshwkawv.jpeg?q=70"
+    },
+    {
+      "id": "7a08",
+      "name": "SunGlasses",
+      "price": "551",
+      "color": "gray",
+      "category": "Men",
+      "description": "Gradient Aviator Sunglasses (58)  (For Men & Women, Black)",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sunglass/r/0/i/large-ids2500c15sg-idee-original-imagz4g2vyqg8hn3.jpeg?q=70"
+    }
+  ],
+  "users": [
+    {
+      "id": "a421",
+      "name": "mohit",
+      "email": "mohit@user.com",
+      "password": "123xyz"
+    },
+    {
+      "id": "d4a4",
+      "name": "vaibhav",
+      "email": "vaibhav231@user.com",
+      "password": "234poi"
+    },
+    {
+      "id": "c329",
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "123qwe"
+    },
+    {
+      "id": "8e71",
+      "name": "Shubham Shelke",
+      "email": "Shubham@123",
+      "password": "Shubham123"
+    },
+    {
+      "id": "35c8",
+      "name": "mohit",
+      "email": "shubhamshelke6103@gmail.com",
+      "password": "Shubham@123"
+    },
+    {
+      "id": "087a",
+      "name": "Shelke Shubham Dadabhau",
+      "email": "Shubham@seller.com",
+      "password": "12345"
+    },
+    {
+      "id": "fa4a",
+      "name": "Shubham",
+      "email": "Shubham@1",
+      "password": "Shubham1"
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
